@@ -1,0 +1,16 @@
+{
+  "name": "chatbasic",
+  "version": "1.0.0",
+  "description": "private chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azharul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.3.0",
+    "socket.io": "^2.1.1"
+  }
+}
