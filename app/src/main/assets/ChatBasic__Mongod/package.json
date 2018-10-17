@@ -1,0 +1,16 @@
+{
+  "name": "chatbasic",
+  "version": "1.0.0",
+  "description": "private chat",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon appMongoose.js"
+  },
+  "author": "Azharul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.3.4",
+    "socket.io": "^2.1.1"
+  }
+}
